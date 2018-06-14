@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "iRplE+5AdtEhmuQ/QR745xzgRUw=",
+			"path": "github.com/gohouse/gorose",
+			"revision": "8a6250fa3078456c6ee2d86b71f1a97c3a8c1150",
+			"revisionTime": "2018-03-07T05:48:30Z"
+		}
+	],
+	"rootPath": "gunrose"
+}
